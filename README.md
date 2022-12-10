@@ -6,17 +6,22 @@ These are Python exercises done by me on a course called [Programming for Lingui
 
 You can run the snippets and tests from the root folder.
 
-To run a single programs:
+To run a single snippet:
 
 ```
 python src/assignment_0_1.py
 ```
 
-To run the tests:
+To run the tests (use -v for more info on console):
 
 ```
-pytest tests/test_input.py
+pytest -s -v tests
 ```
+
+## Assignments
+
+- Assignment 0.1: [What's your name?](src/assignment_0_1.py)
+- Assignment 1.1: [How much does it cost?](src/assignment_1_1.py)
 
 ## Some links
 
