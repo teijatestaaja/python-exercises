@@ -20,9 +20,11 @@ pytest -s -v tests
 
 ## Assignments
 
-- Assignment 0.1: [What's your name?](src/assignment_0_1.py)
-- Assignment 1.1: [How much does it cost?](src/assignment_1_1.py)
-- Assignment 1.2: [Understanding division and modulo](src/assignment_1_2.py)
+| Assignment | Code | Test |
+| ---------- | ---- | ---- |
+| 0.1 | [What's your name?](src/assignment_0_1.py) | [Test input](tests/test_input.py) |
+| 1.1 | [How much does it cost?](src/assignment_1_1.py) | [Test store](tests/test_store.py) |
+| 1.2 | [Understanding division and modulo](src/assignment_1_2.py) | [Test division](tests/test_division.py) |
 
 ## Some links
 
